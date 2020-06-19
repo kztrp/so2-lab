@@ -1,0 +1,5 @@
+Dany jest plik zwykły P (argument skryptu). Należy wypisać na ekran ten plik z następującymi zmianami:
+- nie wypisywać treści komentarzy wielolinijkowych C++,
+- nie wypisywać niepustych (długość niezerowa) linii zawierających wyłącznie znaki białe,
+- numerowaniem linii z zachowanym formatowaniem (np 01 dla dwucyfrowej liczby linii),
+- zamienić w nagłówkach funkcji typ short na int.

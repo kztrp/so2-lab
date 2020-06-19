@@ -1,0 +1,17 @@
+Posługujemy się instrukcją http://jaroslaw.rudy.staff.iiar.pwr.wroc.pl/files/so2/2-links.pdf
+
+Zadania do zajęć poniżej.
+Dane jest drzewo katalogowe D. W tym D należy:
+1. Znaleźć pliki zwykle z rozszerzeniem .png i które modyfikowano nie dawniej niż 5 min temu. Do 3 poziomu.
+2. Usunąć linki symboliczne katalogów.
+
+Są dane dwa katalogi D1 i D2. Skrypt powinien kończyć się, gdy D1 i D2 to ten sam katalog.
+3. Z D1 usunąć niepoprawne (wiszące) linki symboliczne.
+4. W D2 utworzyć linki do plików regularnych i katalogów w D1. Tam gdzie można, użyć linków twardych (linki symboliczne tworzyć ścieżką względną).
+
+Proszę pamiętać o wykonaniu zapisu przebiegu zadania (skryptu). Więcej o poleceniu "script" poniżej:
+https://www.geeksforgeeks.org/script-command-in-linux-with-examples/
+
+Zadanie należy przesłać do kolejnych zajęć. Dotychczasowe oceny wrzucę na swoją stronę w najbliższym możliwym czasie.
+
+D. Żelazny

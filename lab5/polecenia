@@ -1,0 +1,9 @@
+Zadania na wykonania podczas dzisiejszych laboratoriów.
+
+Należy napisać polecenie find, a następnie wyniki wyszukania przetworzyć w potoku, którego elementem będzie while. Find znajdzie nazwę pliku, użytkownika, itp.
+
+Dane jest drzewo katalogowe D i dwa pliki regularne P1 i P2.
+1. Dla każdego linku symbolicznego należy wypisać jego zawartość (cel który wskazuje) za pomocą dowolnego szyfru Cezara.
+2. Dla każdego katalogu należy wypisać liczbę jego ukrytych plików i dla plików zwykłych trzeba wypisać ostatnie słowo ostatniej linijki tego pliku (head, tail). Wszystkie wyniki należy posortować i wysłać do pliku P1, a następnie odwrócić kolejność znaków w liniach i wyświetlić je na ekran. Nie należy używać plików tymczasowych!
+3. Należy wypisać ile jest w katalogu D plików zwykłych, katalogów i linków symbolicznych.
+ 

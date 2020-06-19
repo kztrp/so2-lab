@@ -1,0 +1,6 @@
+Dane są dwa katalogi D1 i D2 (parametry skryptu w Pythonie). Proszę wykonać następujące zadania:
+1) w D1 (jako katalog) usunąć wszystkie pliki regularne, do których użytkownik wykonujący skrypt ma prawo zapisu,
+2) W D2 stworzyć linki symboliczne do każdego katalogu w D1,
+3) W D1 (drzewo katalogowe) należy znaleźć wszystkie pliki regularne, które mają rozmiar większy niż 100 bajtów.
+
+
